@@ -2,12 +2,12 @@
 Alex Evdokimov From Brest, Belarus
 ==============
 
-##**Contacts:**##
+**Contacts:**
 Discord: angis#2670
 <br>
-##**Hobbies:**##
+**Hobbies:**
 computer games, driving a car, learning computer science.
 <br>
-###**Education:**###
+**Education:**
 Brest's University, teacher of physic and informatic.
 <br>
