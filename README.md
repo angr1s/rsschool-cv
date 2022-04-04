@@ -1,1 +1,1 @@
-# https://angris.github.io/rsschool-cv/cv
+# https://angr1s.github.io/rsschool-cv/cv
