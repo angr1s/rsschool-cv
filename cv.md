@@ -1,8 +1,9 @@
-#**Name**
+#**Name**#
 Alex Evdokimov
-##**Contacts:**
+<br>
+##**Contacts:**##
 Discord: angis#2670
-##**Hobbies:**
+##**Hobbies:**##
 computer games, driving a car, learning computer science.
-###**Education:**
+###**Education:**###
 Brest's University, teacher of physic and informatic.
